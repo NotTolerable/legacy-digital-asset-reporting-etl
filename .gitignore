@@ -1,0 +1,3 @@
+__pycache__/
+*.py[cod]
+legacy-digital-asset-reporting-etl/reporting.db
